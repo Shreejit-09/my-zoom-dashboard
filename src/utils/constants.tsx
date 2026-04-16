@@ -24,7 +24,7 @@ const Mock_Ticket= [
       id: 4,
       title: "CRM call recording not available",
       agent: "Shwet",
-      status: "Not Started",
+      status: "Closed",
       priority: "Very High",
     }
   ];
